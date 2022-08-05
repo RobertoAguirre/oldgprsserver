@@ -1,0 +1,435 @@
+2019-06-08 10:44:23 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-06-08 10:44:24 - Started 5752
+2019-07-15 13:05:21 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-07-15 13:05:24 - Started 3708
+2019-08-03 09:35:36 - Stopping gprsserver.exe
+2019-08-03 09:35:36 - ProcessKill 3708
+2019-08-03 09:35:38 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-08-03 09:36:11 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-03 09:36:12 - Started 3920
+2019-08-03 09:53:38 - Stopping gprsserver.exe
+2019-08-03 09:53:38 - ProcessKill 3920
+2019-08-03 09:53:40 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-08-03 09:55:52 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-03 09:55:53 - Started 3856
+2019-08-03 11:10:54 - Stopping gprsserver.exe
+2019-08-03 11:10:54 - ProcessKill 3856
+2019-08-03 11:10:57 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2019-08-03 11:13:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-08-03 11:13:18 - Started 4028
+2019-09-25 21:00:57 - Stopping gprsserver.exe
+2019-09-25 21:00:57 - Finished gprsserver.exe
+2019-09-25 21:01:50 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-25 21:01:51 - Started 3908
+2019-09-26 09:58:59 - Stopping gprsserver.exe
+2019-09-26 09:58:59 - ProcessKill 3908
+2019-09-26 09:59:00 - Found child process: 3940 Name: conhost.exe
+2019-09-26 09:59:00 - Found child process: 4160 Name: node.exe
+2019-09-26 09:59:00 - Stopping process 3940
+2019-09-26 09:59:00 - Send SIGINT 3940
+2019-09-26 09:59:00 - SIGINT to 3940 failed - Killing as fallback
+2019-09-26 09:59:00 - Stopping process 4160
+2019-09-26 09:59:00 - Send SIGINT 4160
+2019-09-26 09:59:00 - SIGINT to 4160 failed - Killing as fallback
+2019-09-26 09:59:00 - Stopping process 3908
+2019-09-26 09:59:00 - Send SIGINT 3908
+2019-09-26 09:59:00 - SIGINT to 3908 failed - Killing as fallback
+2019-09-26 09:59:00 - Finished gprsserver.exe
+2019-09-26 13:13:11 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-26 13:13:11 - Started 7632
+2020-02-24 08:30:16 - Stopping gprsserver.exe
+2020-02-24 08:30:16 - Finished gprsserver.exe
+2020-02-24 08:31:19 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-02-24 08:31:20 - Started 4028
+2020-03-23 21:22:32 - Stopping gprsserver.exe
+2020-03-23 21:22:32 - Finished gprsserver.exe
+2020-03-23 21:23:49 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-03-23 21:23:49 - Started 3264
+2020-05-26 19:16:46 - Stopping gprsserver.exe
+2020-05-26 19:16:46 - Finished gprsserver.exe
+2020-05-26 19:18:36 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-26 19:18:37 - Started 4076
+2020-05-26 23:48:31 - Stopping gprsserver.exe
+2020-05-26 23:48:31 - ProcessKill 4076
+2020-05-26 23:48:34 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2020-05-26 23:50:15 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-05-26 23:50:16 - Started 4044
+2020-09-11 19:08:13 - Stopping gprsserver.exe
+2020-09-11 19:08:13 - Finished gprsserver.exe
+2020-09-11 19:09:11 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-09-11 19:09:12 - Started 4080
+2020-10-10 10:19:36 - Stopping gprsserver.exe
+2020-10-10 10:19:36 - Finished gprsserver.exe
+2020-10-10 10:20:59 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-10-10 10:21:03 - Started 4100
+2020-11-12 09:12:53 - Stopping gprsserver.exe
+2020-11-12 09:12:54 - Finished gprsserver.exe
+2020-11-12 09:14:39 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-11-12 09:14:39 - Started 2024
+2020-12-17 00:24:48 - Stopping gprsserver.exe
+2020-12-17 00:24:48 - Finished gprsserver.exe
+2020-12-17 00:26:34 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-12-17 00:26:34 - Started 4048
+2021-01-26 11:04:09 - Stopping gprsserver.exe
+2021-01-26 11:04:09 - Finished gprsserver.exe
+2021-01-26 11:05:28 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-01-26 11:05:28 - Started 3936
+2021-06-16 14:35:30 - Stopping gprsserver.exe
+2021-06-16 14:35:30 - Finished gprsserver.exe
+2021-06-16 14:36:33 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-16 14:36:35 - Started 4156
+2021-06-25 08:30:23 - Stopping gprsserver.exe
+2021-06-25 08:30:23 - ProcessKill 4156
+2021-06-25 08:30:26 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-06-25 08:31:46 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-06-25 08:31:47 - Started 4012
+2021-07-27 13:57:54 - Stopping gprsserver.exe
+2021-07-27 13:57:55 - Finished gprsserver.exe
+2021-07-27 13:59:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-27 13:59:04 - Started 3744
+2021-07-28 10:56:59 - Stopping gprsserver.exe
+2021-07-28 10:56:59 - ProcessKill 3744
+2021-07-28 10:57:00 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-07-28 10:58:46 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-07-28 10:58:47 - Started 1412
+2021-10-01 15:59:34 - Stopping gprsserver.exe
+2021-10-01 15:59:34 - Finished gprsserver.exe
+2021-10-01 16:00:45 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-10-01 16:00:46 - Started 4036
+2021-12-09 07:42:51 - Stopping gprsserver.exe
+2021-12-09 07:42:51 - Finished gprsserver.exe
+2021-12-09 07:44:26 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2021-12-09 07:44:27 - Started 1624
+2022-02-06 08:39:11 - Stopping gprsserver.exe
+2022-02-06 08:39:11 - Finished gprsserver.exe
+2022-02-06 08:41:06 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-06 08:41:07 - Started 4724
+2022-02-12 13:11:18 - Stopping gprsserver.exe
+2022-02-12 13:11:18 - ProcessKill 4724
+2022-02-12 13:11:18 - Found child process: 4740 Name: conhost.exe
+2022-02-12 13:11:18 - Found child process: 5244 Name: node.exe
+2022-02-12 13:11:18 - Stopping process 4740
+2022-02-12 13:11:18 - Send SIGINT 4740
+2022-02-12 13:11:18 - SIGINT to 4740 failed - Killing as fallback
+2022-02-12 13:11:19 - Stopping process 5244
+2022-02-12 13:11:19 - Send SIGINT 5244
+2022-02-12 13:11:19 - SIGINT to 5244 failed - Killing as fallback
+2022-02-12 13:11:19 - Stopping process 4724
+2022-02-12 13:11:19 - Send SIGINT 4724
+2022-02-12 13:11:19 - SIGINT to 4724 failed - Killing as fallback
+2022-02-12 13:11:19 - Finished gprsserver.exe
+2022-02-12 13:11:21 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-12 13:11:21 - Started 4428
+2022-02-12 13:49:45 - Stopping gprsserver.exe
+2022-02-12 13:49:45 - ProcessKill 4428
+2022-02-12 13:49:45 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-02-12 13:51:14 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-12 13:51:15 - Started 1740
+2022-02-16 12:35:24 - Stopping gprsserver.exe
+2022-02-16 12:35:24 - ProcessKill 1740
+2022-02-16 12:35:25 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-02-16 12:37:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-02-16 12:37:05 - Started 4376
+2022-03-07 11:41:31 - Stopping gprsserver.exe
+2022-03-07 11:41:31 - ProcessKill 4376
+2022-03-07 11:41:40 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-03-07 11:43:25 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-07 11:43:26 - Started 4100
+2022-03-07 12:15:38 - Stopping gprsserver.exe
+2022-03-07 12:15:38 - ProcessKill 4100
+2022-03-07 12:15:38 - Found child process: 4120 Name: conhost.exe
+2022-03-07 12:15:38 - Found child process: 4760 Name: node.exe
+2022-03-07 12:15:38 - Stopping process 4120
+2022-03-07 12:15:38 - Send SIGINT 4120
+2022-03-07 12:15:39 - SIGINT to 4120 failed - Killing as fallback
+2022-03-07 12:15:39 - Stopping process 4760
+2022-03-07 12:15:39 - Send SIGINT 4760
+2022-03-07 12:15:39 - SIGINT to 4760 failed - Killing as fallback
+2022-03-07 12:15:39 - Stopping process 4100
+2022-03-07 12:15:39 - Send SIGINT 4100
+2022-03-07 12:15:39 - SIGINT to 4100 failed - Killing as fallback
+2022-03-07 12:15:39 - Finished gprsserver.exe
+2022-03-07 12:15:40 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-07 12:15:40 - Started 9220
+2022-03-14 11:55:35 - Stopping gprsserver.exe
+2022-03-14 11:55:35 - ProcessKill 9220
+2022-03-14 11:55:35 - Found child process: 6708 Name: conhost.exe
+2022-03-14 11:55:35 - Found child process: 9376 Name: node.exe
+2022-03-14 11:55:35 - Stopping process 6708
+2022-03-14 11:55:35 - Send SIGINT 6708
+2022-03-14 11:55:35 - SIGINT to 6708 failed - Killing as fallback
+2022-03-14 11:55:36 - Stopping process 9376
+2022-03-14 11:55:36 - Send SIGINT 9376
+2022-03-14 11:55:36 - SIGINT to 9376 failed - Killing as fallback
+2022-03-14 11:55:36 - Stopping process 9220
+2022-03-14 11:55:36 - Send SIGINT 9220
+2022-03-14 11:55:36 - SIGINT to 9220 failed - Killing as fallback
+2022-03-14 11:55:36 - Finished gprsserver.exe
+2022-03-14 11:55:37 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-14 11:55:37 - Started 9308
+2022-03-14 11:56:37 - Stopping gprsserver.exe
+2022-03-14 11:56:37 - ProcessKill 9308
+2022-03-14 11:56:38 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-03-14 11:58:07 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-14 11:58:07 - Started 3588
+2022-03-14 12:32:53 - Stopping gprsserver.exe
+2022-03-14 12:32:53 - ProcessKill 3588
+2022-03-14 12:32:55 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-03-14 12:34:46 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-03-14 12:34:47 - Started 4160
+2022-04-07 13:29:00 - Stopping gprsserver.exe
+2022-04-07 13:29:00 - ProcessKill 4160
+2022-04-07 13:29:01 - Found child process: 4224 Name: conhost.exe
+2022-04-07 13:29:01 - Found child process: 4880 Name: node.exe
+2022-04-07 13:29:01 - Stopping process 4224
+2022-04-07 13:29:01 - Send SIGINT 4224
+2022-04-07 13:29:01 - SIGINT to 4224 failed - Killing as fallback
+2022-04-07 13:29:02 - Stopping process 4880
+2022-04-07 13:29:02 - Send SIGINT 4880
+2022-04-07 13:29:02 - SIGINT to 4880 failed - Killing as fallback
+2022-04-07 13:29:02 - Stopping process 4160
+2022-04-07 13:29:02 - Send SIGINT 4160
+2022-04-07 13:29:02 - SIGINT to 4160 failed - Killing as fallback
+2022-04-07 13:29:02 - Finished gprsserver.exe
+2022-04-07 13:29:03 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-07 13:29:03 - Started 5340
+2022-04-11 08:42:38 - Stopping gprsserver.exe
+2022-04-11 08:42:38 - ProcessKill 5340
+2022-04-11 08:42:39 - Found child process: 12700 Name: conhost.exe
+2022-04-11 08:42:39 - Found child process: 5212 Name: node.exe
+2022-04-11 08:42:39 - Stopping process 12700
+2022-04-11 08:42:39 - Send SIGINT 12700
+2022-04-11 08:42:39 - SIGINT to 12700 failed - Killing as fallback
+2022-04-11 08:42:39 - Stopping process 5212
+2022-04-11 08:42:39 - Send SIGINT 5212
+2022-04-11 08:42:39 - SIGINT to 5212 failed - Killing as fallback
+2022-04-11 08:42:39 - Stopping process 5340
+2022-04-11 08:42:39 - Send SIGINT 5340
+2022-04-11 08:42:39 - SIGINT to 5340 failed - Killing as fallback
+2022-04-11 08:42:39 - Finished gprsserver.exe
+2022-04-11 10:21:57 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-11 10:21:57 - Started 8824
+2022-04-11 14:38:07 - Stopping gprsserver.exe
+2022-04-11 14:38:07 - ProcessKill 8824
+2022-04-11 14:40:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-11 14:40:05 - Started 4188
+2022-04-12 07:52:21 - Stopping gprsserver.exe
+2022-04-12 07:52:21 - ProcessKill 4188
+2022-04-12 07:52:21 - Found child process: 4240 Name: conhost.exe
+2022-04-12 07:52:21 - Found child process: 4896 Name: node.exe
+2022-04-12 07:52:21 - Stopping process 4240
+2022-04-12 07:52:21 - Send SIGINT 4240
+2022-04-12 07:52:21 - SIGINT to 4240 failed - Killing as fallback
+2022-04-12 07:52:21 - Stopping process 4896
+2022-04-12 07:52:21 - Send SIGINT 4896
+2022-04-12 07:52:21 - SIGINT to 4896 failed - Killing as fallback
+2022-04-12 07:52:21 - Stopping process 4188
+2022-04-12 07:52:21 - Send SIGINT 4188
+2022-04-12 07:52:21 - SIGINT to 4188 failed - Killing as fallback
+2022-04-12 07:52:21 - Finished gprsserver.exe
+2022-04-12 07:58:17 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-12 07:58:18 - Started 4144
+2022-04-20 08:09:59 - Stopping gprsserver.exe
+2022-04-20 08:09:59 - ProcessKill 4144
+2022-04-20 08:10:00 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-04-20 08:11:28 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-20 08:11:29 - Started 4268
+2022-04-27 12:40:10 - Stopping gprsserver.exe
+2022-04-27 12:40:10 - ProcessKill 4268
+2022-04-27 12:40:10 - Found child process: 4296 Name: conhost.exe
+2022-04-27 12:40:10 - Found child process: 5036 Name: node.exe
+2022-04-27 12:40:11 - Stopping process 4296
+2022-04-27 12:40:11 - Send SIGINT 4296
+2022-04-27 12:40:11 - SIGINT to 4296 failed - Killing as fallback
+2022-04-27 12:40:11 - Stopping process 5036
+2022-04-27 12:40:11 - Send SIGINT 5036
+2022-04-27 12:40:11 - SIGINT to 5036 failed - Killing as fallback
+2022-04-27 12:40:11 - Stopping process 4268
+2022-04-27 12:40:11 - Send SIGINT 4268
+2022-04-27 12:40:11 - SIGINT to 4268 failed - Killing as fallback
+2022-04-27 12:40:11 - Finished gprsserver.exe
+2022-04-27 13:26:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-04-27 13:26:04 - Started 3852
+2022-05-05 10:46:59 - Stopping gprsserver.exe
+2022-05-05 10:46:59 - ProcessKill 3852
+2022-05-05 10:47:00 - Shutdown exception
+Message:A system shutdown is in progress. (Exception from HRESULT: 0x8007045B)
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2022-05-05 10:48:28 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-05-05 10:48:29 - Started 3448
+2022-06-01 10:48:19 - Stopping gprsserver.exe
+2022-06-01 10:48:19 - Finished gprsserver.exe
+2022-06-01 10:48:21 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:48:21 - Started 8572
+2022-06-01 10:49:37 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:49:37 - Started 736
+2022-06-01 10:51:04 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:51:04 - Started 4804
+2022-06-01 10:52:09 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:52:09 - Started 3136
+2022-06-01 10:53:14 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:53:14 - Started 9548
+2022-06-01 10:54:20 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:54:20 - Started 10532
+2022-06-01 10:55:26 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:55:26 - Started 9776
+2022-06-01 10:56:32 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:56:32 - Started 7312
+2022-06-01 10:57:37 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:57:37 - Started 7612
+2022-06-01 10:58:42 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:58:42 - Started 3880
+2022-06-01 10:59:48 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 10:59:48 - Started 6296
+2022-06-01 11:00:55 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 11:00:55 - Started 9528
+2022-06-01 11:02:00 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 11:02:00 - Started 10200
+2022-06-01 11:03:07 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 11:03:07 - Started 400
+2022-06-01 11:05:42 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 11:05:44 - Started 4212
+2022-06-01 11:40:34 - Stopping gprsserver.exe
+2022-06-01 11:40:34 - ProcessKill 4212
+2022-06-01 11:40:35 - Found child process: 4204 Name: conhost.exe
+2022-06-01 11:40:35 - Found child process: 6068 Name: node.exe
+2022-06-01 11:40:35 - Stopping process 4204
+2022-06-01 11:40:35 - Send SIGINT 4204
+2022-06-01 11:40:35 - SIGINT to 4204 failed - Killing as fallback
+2022-06-01 11:40:35 - Stopping process 6068
+2022-06-01 11:40:35 - Send SIGINT 6068
+2022-06-01 11:40:35 - SIGINT to 6068 failed - Killing as fallback
+2022-06-01 11:40:35 - Stopping process 4212
+2022-06-01 11:40:35 - Send SIGINT 4212
+2022-06-01 11:40:35 - SIGINT to 4212 failed - Killing as fallback
+2022-06-01 11:40:35 - Finished gprsserver.exe
+2022-06-01 11:41:26 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 D:\FTP\GPRSServer\node_modules\node-windows\lib\wrapper.js --file D:\FTP\GPRSServer\gprsServer.js --log "GPRS server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2022-06-01 11:41:26 - Started 4384
